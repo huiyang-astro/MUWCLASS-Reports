@@ -10,7 +10,7 @@ The different confusion matrices below are built on
    * average probability vectors method: calculating the averaged probability vector (and its uncertainty) by averaging the same number of probability vectors from that many of LOOCV simulations for each source in the TD, then building the confusion matrix based on the averaged probability vectors for the TD with reasonable confidence filters applied. 
    * The confidence filters include
    - the probability of the most probable class (the class with the highest probability in the probability vector) is higher than a specified threshold, e.g., 70% 
-   - the probability of the most probable class is higher than the probability of any of the rest classes by 2-sigma significance (or other significance levels),  h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+   - the probability of the most probable class is higher than the probability of any of the rest classes by 2-sigma significance (or other significance levels),  mathematically P(most probable class) - 2 *e_P(most probable class) > P(other classes) + 2 * e_P(other classes)
 
 
 Description   |      Confusion Matrices (CM)   | Receiver operating characteristic (ROC) Curves| 
