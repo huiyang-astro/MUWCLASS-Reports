@@ -6,9 +6,11 @@ The different confusion matrices below are built on
 1) different selections of features, including all possible features, specifically from extensive combinations of colors, and a selection of important features with their feature importance above 1% (see the feature importance plots at the very bottom)
 2) different numbers of MCMC simulations to be averaged (for testing of convergence)
 3) different averaging method: i. average CM method
-   * dd
-   * 
-4) dwd  
+   * average CM method: calculating the confusion matrix for each LOOCV simulation and averaging the confusion matrices as well as obtaining the uncertainties using the standard deviations of multiple confusion matrices 
+   * average probability vectors method: calculating the averaged probability vector (and its uncertainty) by averaging the same number of probability vectors from that many of LOOCV simulations for each source in the TD, then building the confusion matrix based on the averaged probability vectors for the TD with reasonable confidence filters applied. 
+   * The confidence filters include
+   - the probability of the most probable class (the class with the highest probability in the probability vector) is higher than a specified threshold, e.g., 70% 
+   - the probability of the most probable class is higher than the probability of any of the rest classes by 2-sigma significance (or other significance levels),  h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 
 
 Description   |      Confusion Matrices (CM)   | Receiver operating characteristic (ROC) Curves| 
