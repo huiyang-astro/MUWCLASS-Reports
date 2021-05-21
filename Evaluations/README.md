@@ -1,4 +1,14 @@
-This folder contains evaluation results of the training datasets. 
+This folder contains Cross-Validation results of the training datasets. 
+
+We test the classification accuracy by applying the Leave-One-Out Cross-Validation (LOOCV), which is a special case of cross-validation where every source in the TD will erase its label (actual source class) and be classified after training the classifier using the remaining sources in the TD. The outcome of this procedure is summarized by the Confusion Matrix where each row represents the fraction of sources in a predicted class while each column provides the fraction in an actual class. A more diagonal matrix represents a better performance. 
+
+The different confusion matrices below are built on 
+1) different selections of features, including all possible features, specifically from extensive combinations of colors, and a selection of important features with their feature importance above 1% (see the feature importance plots at the very bottom)
+2) different numbers of MCMC simulations to be averaged (for testing of convergence)
+3) different averaging method: i. average CM method
+   * dd
+   * 
+4) dwd  
 
 
 Description   |      Confusion Matrices (CM)   | Receiver operating characteristic (ROC) Curves| 
