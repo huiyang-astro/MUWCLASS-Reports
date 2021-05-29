@@ -1,7 +1,8 @@
 
 
-| Significance Cut | Span <td colspan=3> CSC2 TD | Span <td colspan=3> Cygnus OB2| 
+| Significance Cut | | |  | | | | 
 | --- | ----------- |----------- |----------- |----------- |----------- |----------- |
+| Significance Cut | Span <td colspan=3> CSC2 TD  Span <td colspan=3> Cygnus OB2  
 | No Cut | 24781(84.0%) | 4697 | 35940 | 1154(73.9%) | 407 | 1607  |
 | 2 | 19719(93.3%) | 1415 | -10983(30.6%) | 1135(75.9%) | 360  | -79(4.9%) |
 | 3 | 17087(95.2%) | 860 | -14416(40.1%)  | 901(83.4%) | 179  | -502(31.2%) |
