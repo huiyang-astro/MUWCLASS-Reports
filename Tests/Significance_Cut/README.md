@@ -24,7 +24,8 @@
 
 Significance Cut   |      CSC2 TD    | Cygnus OB2| 
 :------------:|:-------------------------:|:-------------------------:|
-2  |![](https://github.com/huiyang-astro/MUWCLASS-Reports/blob/main/Tests/Significance_Cut/Sig_cut2_TD.png)  |  ![](https://github.com/huiyang-astro/MUWCLASS-Reports/blob/main/Tests/Significance_Cut/Sig_cut2_CygnusOB2.png)
-3  |![](https://github.com/huiyang-astro/MUWCLASS-Reports/blob/main/Tests/Significance_Cut/Sig_cut3_TD.png)  |  ![](https://github.com/huiyang-astro/MUWCLASS-Reports/blob/main/Tests/Significance_Cut/Sig_cut3_CygnusOB2.png)
-4  |![](https://github.com/huiyang-astro/MUWCLASS-Reports/blob/main/Tests/Significance_Cut/Sig_cut4_TD.png)  |  ![](https://github.com/huiyang-astro/MUWCLASS-Reports/blob/main/Tests/Significance_Cut/Sig_cut4_CygnusOB2.png)
-5  |![](https://github.com/huiyang-astro/MUWCLASS-Reports/blob/main/Tests/Significance_Cut/Sig_cut5_TD.png)  |  ![](https://github.com/huiyang-astro/MUWCLASS-Reports/blob/main/Tests/Significance_Cut/Sig_cut5_CygnusOB2.png)
+no cut |![](https://github.com/huiyang-astro/MUWCLASS-Reports/blob/main/Tests/Significance_Cut/TD_nocut.png)  |  ![](https://github.com/huiyang-astro/MUWCLASS-Reports/blob/main/Tests/Significance_Cut/CygnosOB2_nocut.png)
+2  |![](https://github.com/huiyang-astro/MUWCLASS-Reports/blob/main/Tests/Significance_Cut/TD_sig2.png)  |  ![](https://github.com/huiyang-astro/MUWCLASS-Reports/blob/main/Tests/Significance_Cut/CygnosOB2_sig2.png)
+3  |![](https://github.com/huiyang-astro/MUWCLASS-Reports/blob/main/Tests/Significance_Cut/TD_sig3.png)  |  ![](https://github.com/huiyang-astro/MUWCLASS-Reports/blob/main/Tests/Significance_Cut/CygnosOB2_sig3.png)
+4  |![](https://github.com/huiyang-astro/MUWCLASS-Reports/blob/main/Tests/Significance_Cut/TD_sig4.png)  |  ![](https://github.com/huiyang-astro/MUWCLASS-Reports/blob/main/Tests/Significance_Cut/CygnosOB2_sig4.png)
+5  |![](https://github.com/huiyang-astro/MUWCLASS-Reports/blob/main/Tests/Significance_Cut/TD_sig5.png)  |  ![](https://github.com/huiyang-astro/MUWCLASS-Reports/blob/main/Tests/Significance_Cut/CygnosOB2_sig5.png)
